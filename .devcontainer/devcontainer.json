@@ -58,7 +58,6 @@
                 "christian-kohler.npm-intellisense",
                 "eg2.vscode-npm-script",
                 "ritwickdey.liveserver",
-                "ritwickdey.live-sass",
                 "ms-vscode.wordcount",
                 "editorconfig.editorconfig",
                 "streetsidesoftware.code-spell-checker",
@@ -72,5 +71,5 @@
     "postCreateCommand": "zsh .devcontainer/post-create.zsh",
     // "overrideCommand": false,
     // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-    "remoteUser": "vscode"
+    // "remoteUser": "vscode"
 }

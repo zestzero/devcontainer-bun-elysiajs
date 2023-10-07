@@ -1,7 +1,7 @@
 # Devcontainer + Bun + ElysiaJS
 
 ## Development
-- `bun run test-project/server.js`
+- `cd app && bun dev`
 
 ## Reference
 - [Devcontainer with Bun](https://github.com/alertbox/devcontainers-try-bun/tree/main/.devcontainer)
